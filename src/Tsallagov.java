@@ -3,4 +3,10 @@ public class Tsallagov{
         System.out.println("Tsallagov");
         System.out.println("Alexander");
     }
+
+    public static void print10() {
+    	for(int i = 0; i < 10; i++) {
+    		System.out.println("Hello World!");
+    	}
+    }
 }
